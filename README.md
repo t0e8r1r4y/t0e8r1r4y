@@ -39,6 +39,7 @@ Profiles : ( 미등록 )
 
 | Subject | README |
 | ------ | ------ |
+| devTeam | [devteam/README.md][devTeam] |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
@@ -53,6 +54,7 @@ Profiles : ( 미등록 )
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [Resume]: <>
    [Medium]: <>
+   [devTeam]: <https://github.com/t0e8r1r4y/devteam/blob/master/README.md>
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
