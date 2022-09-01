@@ -35,11 +35,11 @@ Profiles :
 ## Repo
 
 기술 관련 자료를 정리하고 저장합니다.
-주제와 링크는 아래와 같습니다. ( 미등록 )
+주제와 링크는 아래와 같습니다.
 
-| Subject | README |
-| ------ | ------ |
-| devTeam | [devteam/README.md][devTeam] |
+| TITLE | README | SUMMERY | 
+| ------ | ------ | ------ |
+| devTeam | [devteam/README.md][devTeam] | 면접,조직문화,성장 등에 대한 좋은 인사이트 모음 |
 
 
 
