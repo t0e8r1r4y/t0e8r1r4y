@@ -1,6 +1,6 @@
 # Terry Shin
 ## _This is my git-blog, TechLog_
-![header](https://capsule-render.vercel.app/api?type=transparent&text=myTechLog&animation=twinkling&fontAlign=50&fontSize=70&fontColor=8ED500)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=myTechLog&animation=twinkling&fontAlign=50&fontSize=70&fontColor=8ED500)  
 프로그래밍 자체가 얼마나 재미있는 활동인지 경험 중,  
 효과적으로 프로그래밍을 학습하기 위해 노력 중,  
 프로그래머로 어떻게 성장하고 살아갈지 걱정 중.  
