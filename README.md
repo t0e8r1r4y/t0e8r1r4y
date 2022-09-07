@@ -40,7 +40,7 @@ Profiles :
 | TITLE | README | SUMMERY | 
 | ------ | ------ | ------ |
 | devTeam | [devteam/README.md][devTeam] | 면접,조직문화,성장 등에 대한 좋은 인사이트 모음 |
-| readmap | [roadmap][roadmap] | 주기적으로 체크하며 테크트리따라 정리 |
+| roadmap | [roadmap][roadmap] | 주기적으로 체크하며 테크트리따라 정리 |
 
 
 
