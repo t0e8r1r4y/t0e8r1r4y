@@ -29,7 +29,7 @@
 Profiles :
 
 - [Resume] - Basic Resume(KR) - ( 미등록 )
-- [Medium] - blog입니다. 아래 Repo 표에서 '기술정리'에서 주제별로 링크를 걸어 보기 편하게 해보려고 노력 중
+- [Medium] - blog입니다. 아래 Repo 표에서 '기술정리'에서 주제별로 링크를 걸어 보기 편하게 해보려고 
 
 
 ## Repo
