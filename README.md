@@ -29,7 +29,7 @@
 Profiles :
 
 - [Resume] - Basic Resume(KR) - ( 미등록 )
-- [Medium] - blog입니다. git blog로 병합 중입니다.
+- [Medium] - blog입니다. 아래 Repo 표에서 '기술정리'에서 주제별로 링크를 걸어 보기 편하게 해보려고 노력 중
 
 
 ## Repo
@@ -41,6 +41,7 @@ Profiles :
 | ------ | ------ | ------ |
 | devTeam | [devteam/README.md][devTeam] | 면접,조직문화,성장 등에 대한 좋은 인사이트 모음 |
 | roadmap | [roadmap][roadmap] | 주기적으로 체크하며 테크트리따라 정리 |
+| gitBlog | [기술정리][devstack] | 기술 스택 관련 자료를 정리 |
 
 
 
@@ -52,19 +53,7 @@ Profiles :
    [Medium]: <https://medium.com/@tas.com>
    [devTeam]: <https://github.com/t0e8r1r4y/devteam/blob/master/README.md>
    [roadmap]: <https://roadmap.sh>  
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+   [devstack]: <https://github.com/t0e8r1r4y/blogContents/blob/main/README.md>
 
 
 <!--
