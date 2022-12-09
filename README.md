@@ -33,47 +33,6 @@
 <br/>
 
 
-## Profiles
-
-Profiles :
-
-- [Resume] - Basic Resume(KR) - ( 미등록 )
-
-
-
-<br/>
-
-
-## 기술 블로그
-
-| TITLE | README | SUMMERY | 
-| ------ | ------ | ------ |
-| gitBlog | [기술정리][devstack] | 기술 스택 관련 자료를 정리 |
-| Medium | [기술정리블로그][Medium] | 위 gitBlog 관련 주제 중 글쓰기의 편의 목적으로 함께 운영 |
-
-
-- gitblog는 github에 정리 중인 내용입니다. 기술로드맵을 기준으로 맥락 정보를 저장중입니다.
-- Medium은 git에 정리하는게 깔끔하지 않거나, 회고 등 더 다양한 내용을 정리하는 공간입니다.
-
-
-
-<br/>
-
-
-
-## Repo
-
-기술 관련 자료를 정리하고 저장합니다.
-주제와 링크는 아래와 같습니다.
-
-| TITLE | README | SUMMERY | 
-| ------ | ------ | ------ |
-| devTeam | [devteam/README.md][devTeam] | 면접,조직문화,성장 등에 대한 좋은 인사이트 모음 |
-| roadmap | [roadmap][roadmap] | 주기적으로 체크하며 테크트리따라 정리 |
-
-
-
-
 **Thanks!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
